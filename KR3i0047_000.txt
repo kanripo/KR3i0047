@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 蟹略
+#+DATE: 2015-08-24 23:18:56.423179
+#+PROPERTY: ID KR3i0047
+#+PROPERTY: BASEEDITION WYG    
